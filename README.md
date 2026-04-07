@@ -45,7 +45,7 @@ It allows users to register, login, post jobs, search jobs, and apply for jobs.
 ![Update Job](screenshots/update-job.png)
 
 ### Delete Job
-![Delete Job](screenshots/delete-job.png)
+![Delete Job](jobportal/screenshots/delete-job.png)
 
 ### Apply Job
 ![Apply Job](jobportal/screenshots/apply-job.png)
