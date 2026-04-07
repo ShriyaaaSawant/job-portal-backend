@@ -39,7 +39,7 @@ It allows users to register, login, post jobs, search jobs, and apply for jobs.
 ## 📸 API Screenshots
 
 ### Create Job
-![Create Job](screenshots/create-job.png) 
+![Create Job](jobportal/screenshots/create-jobs.png)
 
 ### Update Job
 ![Update Job](screenshots/update-job.png)
