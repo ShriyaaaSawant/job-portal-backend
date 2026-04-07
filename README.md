@@ -54,7 +54,7 @@ It allows users to register, login, post jobs, search jobs, and apply for jobs.
 ![View Applications](jobportal/screenshots/view-applications.png)
 
 ### Search Job
-![Search Job](screenshots/search-job.png)
+![Search Job](jobportal/screenshots/search-job.png)
 
 ---
 
